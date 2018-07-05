@@ -1,0 +1,14 @@
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/bin/Debug/netcoreapp2.1/ConsultingAttempt.deps.json
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/bin/Debug/netcoreapp2.1/ConsultingAttempt.runtimeconfig.json
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/bin/Debug/netcoreapp2.1/ConsultingAttempt.runtimeconfig.dev.json
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/bin/Debug/netcoreapp2.1/ConsultingAttempt.dll
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/bin/Debug/netcoreapp2.1/ConsultingAttempt.pdb
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.csprojResolveAssemblyReference.cache
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.csproj.CoreCompileInputs.cache
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.RazorAssemblyInfo.cache
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.RazorAssemblyInfo.cs
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.AssemblyInfoInputs.cache
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.AssemblyInfo.cs
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.RazorTargetAssemblyInfo.cache
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.dll
+/Users/brettkoppelman/Documents/ConsultingAttempt/ConsultingAttempt/obj/Debug/netcoreapp2.1/ConsultingAttempt.pdb

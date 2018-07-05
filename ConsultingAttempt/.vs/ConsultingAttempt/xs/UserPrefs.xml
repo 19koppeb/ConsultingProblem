@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{01781E06-BD8F-412A-BB2F-0B5CA649311C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsultingAttempt PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsultingAttempt/Program.cs">
+    <Files>
+      <File FileName="ConsultingAttempt/Program.cs" Line="1" Column="1" />
+      <File FileName="ConsultingAttempt/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
